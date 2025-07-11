@@ -18,7 +18,9 @@ Este repositório reúne todos os exercícios realizados ao longo do curso **Ful
 ## 🧪 Exercícios e Deploys
 
 ### 🧱 HTML & CSS
-- [Projeto 1 - Site Básico](html-css/projeto01-site-basico)
+- [CSS_Exercício_1 - background e border](html-css/CSS_Exercício_1) | [🔗 Deploy no Netlify](https://css-exercicio-1.netlify.app/)
+- [CSS_Exercício_2 - selected e hidden ](html-css/CSS_Exercício_2) | [🔗 Deploy no Netlify](https://css-exercicio-2.netlify.app/)
+- [CSS_Exercício_3](html-css/CSS_Exercício_3) | [🔗 Deploy no Netlify](https://css-exercicio-3.netlify.app/)
 
 ### 🔢 JavaScript
 - [Contador Interativo](javascript/exercicio01-contador)
